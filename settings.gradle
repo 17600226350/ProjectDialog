@@ -1,0 +1,3 @@
+rootProject.name = "ProjectDialog"
+include ':app'
+include ':BaseDialog'
